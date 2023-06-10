@@ -1,4 +1,4 @@
-<img  src="Deepak.png" alt="coding" >
+
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://media.licdn.com/dms/image/C5612AQGHcoEtzhvUCw/article-cover_image-shrink_600_2000/0/1593674157298?e=2147483647&v=beta&t=_xjClv1_8ITSvd8y6ef0nZqFw63EGkeibPdoc3XItjc" alt="coding" width="400">
